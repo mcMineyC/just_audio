@@ -43,8 +43,8 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility 1.8
-        targetCompatibility 1.8
+        sourceCompatibility 21
+        targetCompatibility 21
     }
 
     dependencies {
